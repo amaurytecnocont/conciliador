@@ -1,0 +1,5 @@
+{
+  "name": "ConciliaERP - Controle Contábil",
+  "description": "Mini ERP para controle de conciliação contábil, fiscal e DP com busca de CNPJ e relatórios.",
+  "requestFramePermissions": []
+}
